@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 HI This is a test repo
 THis is  a third commit -by second branch
+=======
+Hi This is a test repo
+
+Adding  second commit for testing mergeconfict
+>>>>>>> f1d7b19496239d5485ba76cbfb73259f392e9d20
